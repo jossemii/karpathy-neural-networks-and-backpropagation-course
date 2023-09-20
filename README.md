@@ -1,5 +1,5 @@
 
-![awww](https://www.youtube.com/watch?v=VMj-3S1tku0)
+[![The spelled-out intro to neural networks and backpropagation: building micrograd](https://img.youtube.com/vi/VMj-3S1tku0/maxresdefault.jpg)]([https://youtu.be/vt5fpE0bzSY](https://www.youtube.com/watch?v=VMj-3S1tku0))
 
 # micrograd
 
