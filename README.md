@@ -1,4 +1,6 @@
 
+![awww](https://www.youtube.com/watch?v=VMj-3S1tku0)
+
 # micrograd
 
 ![awww](puppy.jpg)
